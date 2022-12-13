@@ -1,9 +1,10 @@
 # iCloud-Bypasser
 ![image](https://i.postimg.cc/Vkk2PNDg/New-Project.png)
 -
-## How to run this Program ❓
-• ```cd icloud-bypasser```
+## How to run this Program â“
+â€¢ ```cd icloud-bypasser```
 <br>
-• ```npm i```
+â€¢ ```npm i```
 <br>
-• ```node .```
+â€¢ ```node .```
+ 
