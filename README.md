@@ -4,4 +4,6 @@
 ## How to run this Program ❓
 • ```cd icloud-bypasser```
 <br>
+• ```npm i```
+<br>
 • ```node .```
