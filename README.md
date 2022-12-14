@@ -1,10 +1,9 @@
 # iCloud-Bypasser
 ![image](https://i.postimg.cc/0jBDxs9s/New-Project.png)
 -
-## How to use ÃƒÂ¢Ã‚ÂÃ¢â‚¬Å“
-ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â¢ `cd iCloud-Bypasser`
+## How to use ÃƒÆ’Ã‚Â¢Ãƒâ€šÃ‚ÂÃƒÂ¢Ã¢â€šÂ¬Ã…â€œ
+ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€šÃ‚Â¢ `cd iCloud-Bypasser`
 <br>
-ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â¢ `npm i`
+ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€šÃ‚Â¢ `npm i`
 <br>
-ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â¢ `node .`
- 
+ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€šÃ‚Â¢ `node .`
